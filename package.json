@@ -1,0 +1,19 @@
+{
+  "name": "tripplanner1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack -w"
+  },
+  "author": "Frank White",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "mapbox-gl": "^0.42.1"
+  }
+}
